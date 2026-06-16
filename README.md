@@ -2,7 +2,7 @@
 
 # Hey, I'm Haarish S 👋
 
-**Backend Engineer · Product Thinker · Placement-Ready**
+**Backend Engineer · Product Thinker · Problem Solver**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-haarish--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haarish-s-20937a294/)
 [![GitHub](https://img.shields.io/badge/GitHub-haarish009-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/haarish009)
