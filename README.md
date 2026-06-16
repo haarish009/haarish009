@@ -92,17 +92,6 @@ Currently deep in **WealthOS**, a full-stack paper trading & AI portfolio adviso
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Haarish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haarish009&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haarish009&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
