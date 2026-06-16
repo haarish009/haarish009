@@ -2,11 +2,11 @@
 
 # Hey, I'm Haarish S 👋
 
-**Backend Engineer · Product Thinker · Problem-Solver**
+**Backend Engineer · Product Thinker · Placement-Ready**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-haarish--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haarish-s-20937a294/)
 [![GitHub](https://img.shields.io/badge/GitHub-haarish009-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/haarish009)
-[![Medium](https://medium.com/@haarishsrinivasan2006)
+[![Medium](https://img.shields.io/badge/Medium-haarishsrinivasan2006-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@haarishsrinivasan2006)
 [![Location](https://img.shields.io/badge/Chennai%2C%20India-📍-orange?style=flat-square)](#)
 
 </div>
@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-I'm a Electronics student based in Chennai, building production-grade backend systems with a strong emphasis on **scalability, clean architecture, and real-world trade-offs**.
+I'm an Electronics student based in Chennai, building production-grade backend systems with a strong emphasis on **scalability, clean architecture, and real-world trade-offs**.
 
 My approach to engineering goes beyond making things work — I care about *why* certain design choices scale better, cost less, or fail more gracefully. I document these decisions and build with placement in mind, so every project tells a story a recruiter can follow.
 
@@ -92,7 +92,6 @@ Currently deep in **WealthOS**, a full-stack paper trading & AI portfolio adviso
 - Preparing to talk about **scalability decisions** — not just what I built, but *why*
 
 ---
-
 
 ## 📫 Let's Connect
 
